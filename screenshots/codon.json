@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/linkers",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "ARIA Lab",
+      "hasCanvas": false,
+      "bodyTextLen": 3004,
+      "bodyTextHash": "cb320782e08678d412890d7ee5f0d04871dd3c60b02b356bb49c44a5127c83df",
+      "bodyTextPrefix": "ARIA Lab VEIN Sequence Codon Map Ligand FA Codon engine Sharp–Li",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/codon.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "ARIA Lab",
+      "hasCanvas": false,
+      "bodyTextLen": 3006,
+      "bodyTextHash": "f965c87533bea239982d3840d5b391e95cb95d28aa298926de25698480973a30",
+      "bodyTextPrefix": "ARIA Lab FA Codon engine Sharp–Li CAI, GC sliding window, rare-c",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/codon-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/codon.json"
+}

@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/archive",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "ARIA Lab",
+      "hasCanvas": false,
+      "bodyTextLen": 953,
+      "bodyTextHash": "a9d5778b5b4fc0aaa5d6e4c820ae8417a5a28f66dd7a9501de67fddd51bcece0",
+      "bodyTextPrefix": "ARIA Lab VEIN Sequence Codon Map Ligand FA Ligand complement Lip",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/ligand.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "ARIA Lab",
+      "hasCanvas": false,
+      "bodyTextLen": 953,
+      "bodyTextHash": "d47c5cb5f9dd7f9f4bd1d6305f8ec340734354a498bfe2f23064597f98253044",
+      "bodyTextPrefix": "ARIA Lab FA Ligand complement Lipinski / QED-style scoring again",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/ligand-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/ligand.json"
+}

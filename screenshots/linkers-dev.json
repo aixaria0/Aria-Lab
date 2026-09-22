@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/linkers",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "ARIA Lab",
+      "hasCanvas": false,
+      "bodyTextLen": 640,
+      "bodyTextHash": "d40282bc82ef3e2eea7ebd786442da59398580a84ad4eb93d856c54f2295795e",
+      "bodyTextPrefix": "آزمایشگاه آریا استودیو سازه‌ها لینکرها پلاسمید آرشیو EN لینکرها ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/linkers-dev.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "ARIA Lab",
+      "hasCanvas": false,
+      "bodyTextLen": 640,
+      "bodyTextHash": "f9186d80cec38b1bf5a5cfbbbd60d298039b6da307a642e159995f0a139670a8",
+      "bodyTextPrefix": "آزمایشگاه آریا EN لینکرها برای Cascade-1 بهتر است Hybrid-GS یا G",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/linkers-dev-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/linkers-dev.json"
+}

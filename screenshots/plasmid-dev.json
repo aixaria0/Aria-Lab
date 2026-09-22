@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/plasmid",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "ARIA Lab",
+      "hasCanvas": false,
+      "bodyTextLen": 360,
+      "bodyTextHash": "f25ce6ea276419ab77395ab6e811118e0cae56c80fdb1c872edbe251998a6439",
+      "bodyTextPrefix": "آزمایشگاه آریا استودیو سازه‌ها لینکرها پلاسمید آرشیو EN پلاسمید ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/plasmid-dev.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "ARIA Lab",
+      "hasCanvas": false,
+      "bodyTextLen": 360,
+      "bodyTextHash": "39b5190528333aa7a12da294d696e3d03c3d07a720d6f0bcc2e3efad19b3e5f7",
+      "bodyTextPrefix": "آزمایشگاه آریا EN پلاسمید نقشه حلقوی و خطی به‌سبک SnapGene. اینس",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/plasmid-dev-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/plasmid-dev.json"
+}

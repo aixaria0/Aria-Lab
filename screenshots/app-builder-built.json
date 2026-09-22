@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "ARIA Lab",
+      "hasCanvas": false,
+      "bodyTextLen": 2059,
+      "bodyTextHash": "9496b0192ae9680f781ab25634eb345b09f00cbb77ccf1883494791b6c67e0a3",
+      "bodyTextPrefix": "ARIA Lab VEIN Sequence Codon Map Ligand FA COMPUTATIONAL CORE VE",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "ARIA Lab",
+      "hasCanvas": false,
+      "bodyTextLen": 2059,
+      "bodyTextHash": "bc4401624868ff7cc305228d44e03a1c1f5a09cf6e4f3bc6153bc3bdfb544e36",
+      "bodyTextPrefix": "ARIA Lab FA COMPUTATIONAL CORE VEIN Aria Cascade-1 · Hybrid-GS ·",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
